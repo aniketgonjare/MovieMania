@@ -1,7 +1,49 @@
 Task Breakdown :
 
 1. add payment details
-2. add filter citywise, movie wise
+2. add filter citywise, movie wise, timings wise
 3. theater location
-4.
+4. theater AC/Non-AC options.
 5. create a dashboard.
+6. customer reviews and feedback.
+7. Booking Cancellation before 3 hrs.
+8. confirmation of booked ticket.
+9. remainder notifaction before 1 hour.
+10. Type of movie genre.
+11. Critic Reviews
+12. Filter Show Timing.
+13. show movies cast.
+14. customer login page.
+15. customer wishlist of movies.
+16. offers and rewards.
+17. terms and condition show before the booking ticket.
+show cities
+ selecct city
+ show bunch of recently realesed movies
+ select movie
+ show the available shows with timings
+ select theatre
+ select show timings 
+ select seats 
+ select food items 
+ select beverages
+ select payment mode 
+ register
+ accept registration details
+ set password
+ log in page 
+ payment gateway
+ Booking date
+ cancle tickets
+ show refund options
+ select refund options
+ accept acc details
+ refund gateway
+ send booked details to user via mob no
+ .
+ show movie reviews
+ add reviews
+ accept the login details
+ go to respect
+
+credit card offers
